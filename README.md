@@ -8,7 +8,7 @@
 
 
 
-##Usage
+## Usage
  
 ####  To build wasm file from go file
 
@@ -20,6 +20,6 @@
 
 ####  After a successfull compilation 
 
-######  Browse to [http://localhost:8080](http://localhost:8080 "http://localhost:8080") after building 
+######  Browse to [http://localhost:8080](http://localhost:8080 "http://localhost:8080") 
 
 
