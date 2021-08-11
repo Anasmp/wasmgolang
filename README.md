@@ -4,7 +4,7 @@
 - Api binding from wasm
 - Button hide and show from wasm
 - Fetch the top 10 stories from Hacker News and displays them as list
-- The examples require at least Go version 1.12
+- The example require at least Go version 1.12
 
 
 
